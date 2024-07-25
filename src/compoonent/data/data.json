@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "firstname":"Ali",
+        "lastname":"Khan",
+        "code":"234567",
+        "city":"Tehran"
+    },
+    {
+        "id":2,
+        "firstname":"Mohammad",
+        "lastname":"Khani",
+        "code":"234568",
+        "city":"Shiraz"
+    },
+    {
+        "id":3,
+        "firstname":"Javad",
+        "lastname":"Mousavi",
+        "code":"234569",
+        "city":"Mazandaran"
+    },
+    {
+        "id":4,
+        "firstname":"Zahra",
+        "lastname":"Mousavi",
+        "code":"234561",
+        "city":"Tabriz"
+    }
+]
